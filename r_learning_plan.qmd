@@ -1,0 +1,12 @@
+---
+title: "R Learning Planner"
+author: "Emily Chrostowski"
+format: html
+editor: source
+---
+
+## Summer of 2024
+
+* I will practice chapters 1-5 for Data Science when on the train!
+* I will share my code with Randy & Halle **every week**
+* Explore Quarto Possibilities on the internet when bored
